@@ -150,6 +150,9 @@ You can download Wamp server from their [official website](https://www.wampserve
 7. You can then navigate through the project's pages by clicking on the links provided on the home page.
 
 Note: Before running the project, make sure to create a database named "account" and import the SQL file (project_db.sql) located in the project/sql directory. Running the project without creating the database may result in errors.
+<h4>Admin Page</h4>
+username: admin
+paddword: 123
 
 <hr/>
 <h1>Contribution Guidelines</h1>
